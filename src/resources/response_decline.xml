@@ -1,0 +1,6 @@
+<Body>
+<TransactionResponse>
+    <Result>DECLINED</Result>
+    <Reason>NotEnoughFunds</Reason>
+</TransactionResponse>
+</Body>

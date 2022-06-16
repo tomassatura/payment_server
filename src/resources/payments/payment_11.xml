@@ -1,0 +1,17 @@
+<Body>
+    <Transaction>
+        <Token>1234567890</Token>
+        <MCC>5814</MCC>
+        <Amount>10</Amount>
+        <Currency>EUR</Currency>
+        <Transaction_Time>2021-10-23T12:25:12,332+0100</Transaction_Time>
+        <Merchant>
+            <Name>Lunch store</Name>
+            <Merchant_City>Prague</Merchant_City>
+            <Location>
+                <Lat>50.073658</Lat>
+                <Lon>14.418540</Lon>
+            </Location>
+        </Merchant>
+    </Transaction>
+</Body>

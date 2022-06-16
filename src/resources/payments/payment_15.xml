@@ -1,0 +1,11 @@
+<Body>
+    <Transaction>s
+        <MCC>5698</MCC>
+        <Amount>100</Amount>
+        <Transaction_Time>2021-10-24T12:05:12,332+0100</Transaction_Time>
+        <Merchant>
+            <Name>Hairy head store</Name>
+            <Merchant_City>Prague</Merchant_City>
+        </Merchant>
+    </Transaction>
+</Body>

@@ -1,0 +1,4 @@
+"Limit","account","currency","owner","card_token"
+"500","overall","eur","customer","1234567890"
+"200","overall","eur","customer","0987654321"
+"1000000", "overall","eur","bank",null

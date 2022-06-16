@@ -1,0 +1,17 @@
+<Body>
+    <Transaction>
+        <Token>0987654321</Token>
+        <MCC>4789</MCC>
+        <Amount>10</Amount>
+        <Currency>EUR</Currency>
+        <Transaction_Time>2021-10-21T21:54:21,244+0000</Transaction_Time>
+        <Merchant>
+            <Name>MUTS - Mole underground transport systems</Name>
+            <Merchant_City>London</Merchant_City>
+            <Location>
+                <Lat>51.509865</Lat>
+                <Lon>-0.118092</Lon>
+            </Location>
+        </Merchant>
+    </Transaction>
+</Body>

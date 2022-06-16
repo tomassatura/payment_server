@@ -1,0 +1,17 @@
+<Body>
+    <Transaction>
+        <Token>1234567890</Token>
+        <MCC>5814</MCC>
+        <Amount>140</Amount>
+        <Currency>EUR</Currency>
+        <Transaction_Time>2021-10-21T06:42:12,332+0000</Transaction_Time>
+        <Merchant>
+            <Name>Restaurant at the World's End</Name>
+            <Merchant_City>London</Merchant_City>
+            <Location>
+                <Lat>51.509865</Lat>
+                <Lon>-0.118092</Lon>
+            </Location>
+        </Merchant>
+    </Transaction>
+</Body>

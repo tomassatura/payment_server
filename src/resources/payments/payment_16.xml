@@ -1,0 +1,17 @@
+<Body>
+    <Transaction>
+        <Token>0987654321</Token>
+        <MCC>5698</MCC>
+        <Amount>100</Amount>
+        <Currency>EUR</Currency>
+        <Transaction_Time>2021-10-24T12:06:12,332+0100</Transaction_Time>
+        <Merchant>
+            <Name>Hairy head store</Name>
+            <Merchant_City>Prague</Merchant_City>
+            <Location>
+                <Lat>50.073658</Lat>
+                <Lon>14.418540</Lon>
+            </Location>
+        </Merchant>
+    </Transaction>
+</Body>

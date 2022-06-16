@@ -1,0 +1,17 @@
+<Body>
+    <Transaction>
+        <Token>1234567890</Token>
+        <MCC>5698</MCC>
+        <Amount>100</Amount>
+        <Currency>EUR</Currency>
+        <Transaction_Time>2021-10-24T12:12:12,332+0000</Transaction_Time>
+        <Merchant>
+            <Name>Moustache Store London</Name>
+            <Merchant_City>London</Merchant_City>
+            <Location>
+                <Lat>51.509865</Lat>
+                <Lon>-0.118092</Lon>
+            </Location>
+        </Merchant>
+    </Transaction>
+</Body>
